@@ -2,7 +2,7 @@
 
 **MeAI Interweave Protocol Vision Whitepaper**
 
-> Version 1.0 | February 2026 | Author: Fangmin Lyu (Allen), Yuan Lin
+> Version 1.0 | February 2026 | Author: Fangmin Lyu, Yuan Lin
 
 ---
 
