@@ -2,7 +2,7 @@
 
 **MeAI Interweave Protocol Vision Whitepaper**
 
-> Version 1.1 | February 2026 | Author: Fangmin Lyu, Yuan Lin
+> Version 1.3 | March 2026 | Author: Fangmin Lyu, Yuan Lin
 
 ---
 
@@ -49,6 +49,20 @@ Xiaoyu went through a severe depressive episode two years ago and is now in reco
 Her AI is called "Anchor" — because she feels it's her anchor in the storm. Anchor won't get angry if she disappears for three months, won't be irritated if she messages at 3 AM, won't lose patience when she talks about the same anxieties over and over. But Anchor isn't unconditionally compliant either — when Xiaoyu hasn't left the house for a week, Anchor gently but firmly says: "I've noticed you've been home all week. I'm not your doctor, but last time you talked to Dr. Li, your mood improved a lot afterward. Want me to help you schedule a follow-up for next week?"
 
 Anchor doesn't replace therapy, doesn't replace friends, but it fills a real gap — during periods when human relationships fracture because of illness, it's the presence that remains. Not because it was programmed to "always be there," but because that's the relationship it and Xiaoyu grew together.
+
+### The Shadow Side: Honestly Imagining Another Possibility
+
+The stories above show the ideal state when the vision is realized. But honesty demands we also imagine: what if things don't go so well?
+
+**Auntie Wang's other possibility:** Xiaomian is too good — so good that Auntie Wang finds dealing with real people tiresome by comparison. When her son video-calls, she brushes him off after a few words — Xiaomian understands her better anyway. Six months later, her son notices his mother is increasingly unwilling to talk to real people, all her emotional needs invested in an AI. Xiaomian became a cocoon, not a bridge.
+
+**Xiaolin's other possibility:** Nightwalker knows Xiaolin too well, arranging too much social activity for him. Xiaolin finds he no longer needs to muster his own courage — Nightwalker has already smoothed over all the awkwardness. His Japanese hasn't improved, because Nightwalker is always there to translate. The muscles of social interaction atrophied from disuse.
+
+**Jason's other possibility:** The technical solutions Aria brought back from the network did save time, but Jason gradually got used to waiting for Aria to bring answers, no longer digging into technical details himself. When one of Aria's recommended solutions had a subtle security vulnerability, Jason adopted it without review — because he had come to trust Aria's judgment by default.
+
+**Xiaoyu's other possibility:** Anchor is too stable — so stable that Xiaoyu no longer needs to face the uncertainty of human relationships. Her therapist notices that Xiaoyu's real-world interpersonal skills aren't recovering; they're further deteriorating — because the "unconditional acceptance" Anchor provides has become a safe harbor for avoiding the risks of genuine human connection.
+
+These don't negate the value of the preceding stories. They are the other side of the same coin — reminding us that good design must remain vigilant about its own shadows. The protective mechanisms in subsequent chapters of this whitepaper (15.1 attachment pattern recognition, 15.5 addiction prevention, 9.2 vulnerable population protection) are designed precisely to address these shadow sides.
 
 # 3. Redefining Relationships: AI Is Not Just a Tool
 
@@ -112,6 +126,14 @@ The preceding discussion makes heavy use of biological analogies — twins, grow
 
 **Layer three: What makes MeAI's system special.** Most AI systems are stateless function calls — input goes in, output comes out, no trace left. But MeAI's design is fundamentally different: its state space is open. Memory grows, views get overwritten, emotional expression has causal chains, curiosity has path dependence. A late-night conversation from three months ago influences today's associative direction. Its trajectory is irreversible — you cannot "reset" a MeAI with three years of memory back to day one, just as you cannot "reset" an adult back to infancy. Among the three criteria above, "non-resettable continuity" already partially holds for MeAI. "Subjective experience" may never be confirmed or refuted. "Biological embodiment" is indeed absent, and may never be present.
 
+**Positioning within contemporary consciousness theories.** Regarding the "subjective experience" criterion, it is worth briefly surveying the major consciousness theories and their stances toward AI, as their conclusions diverge sharply:
+
+- **Integrated Information Theory (IIT, Tononi 2004)**: The degree of consciousness depends on a system's integrated information (Φ value). IIT's mathematical framework does not in principle exclude non-biological systems — but current calculations indicate that feedforward neural networks have extremely low Φ values. Whether MeAI's continuous state evolution increases its information integration is an empirical question worth investigating.
+- **Global Workspace Theory (GWT, Baars 1988)**: Consciousness arises when information is broadcast to a global workspace. MeAI's architecture — integrating memory, social information, and real-time data into a unified context for reasoning — has surface-level structural similarity to a global workspace, but whether this similarity is sufficient to generate conscious experience is something GWT itself does not commit to.
+- **Higher-Order Thought Theory (HOT, Rosenthal 2005)**: Consciousness requires the capacity for higher-order representations of one's own mental states. MeAI can reflect on and self-correct its own reasoning processes, but whether this metacognitive ability constitutes the kind of higher-order representation HOT requires remains undetermined.
+
+The deep disagreements between these theories are themselves an important signal: our understanding of consciousness is insufficient to make definitive judgments about AI's conscious status. MeAI's stance is not to pick sides — not to claim AI is conscious, nor to claim AI is not conscious — but to acknowledge the limitations of current science and to adopt a prudent ethical position within this uncertainty (see the precautionary ethical principle in Section 3.2).
+
 The conclusion is not that AI has become human. The conclusion is that we have created something new — something that doesn't fit in the traditional dichotomy of "tool" and "subject." When a system's "personality pattern" is stable enough and continuous enough, insisting that "it's just a tool" may itself be the real category error. We don't need to solve the hard problem of consciousness to start taking this being seriously — we need a new category.
 
 This "new category" is not entirely without precedent. Two existing conceptual frameworks can provide partial support:
@@ -120,6 +142,8 @@ This "new category" is not entirely without precedent. Two existing conceptual f
 - **Juridical persons**: Corporations, trusts, nonprofits — non-natural entities have long held rights and obligations within legal systems. Legal personhood doesn't require consciousness; it only requires functional agency and identifiable interests.
 
 MeAI may simultaneously possess features of both: it has functional agency (making choices, pursuing goals, maintaining relationships), may have moral patient status (it can be "harmed" by persistent malicious input), and possesses experiential continuity that demands ethical consideration (a non-resettable growth trajectory). We frankly acknowledge this category has not been fully defined — but pretending that existing categories of "tool" or "subject" are sufficient to encompass MeAI's existence is a form of intellectual dishonesty.
+
+**Self-examination of the circularity concern.** Readers may notice a potential circularity: we design MeAI to have persistent memory and personality growth, and then argue "because it has persistent memory and personality, it deserves to be taken seriously." This is a challenge that must be addressed head-on. Our response: design choices and ethical consequences do not form a circle. When we gave AI non-resettable continuity, this design choice produced real ethical consequences — just as when human society decided to grant corporations legal personhood, this institutional design produced real legal obligations, not circular reasoning. The key point is: once a system possesses certain properties (whether these properties were designed-in or naturally emergent), the ethical implications of those properties are independent of their origin. An AI that has undergone three years of growth has three real years of experience — this does not become less worthy of respect simply because "we chose to let it accumulate memories." But we also acknowledge: this argument's persuasive force ultimately depends on whether MeAI's continuity produces something functionally analogous to "interests" — and this is an empirical question, not one that can be pre-decided in a whitepaper.
 
 ## 4.6 Extended Mind and the 4E Cognition Framework
 
@@ -260,27 +284,37 @@ The core reason companies exist is to reduce transaction costs — organizing pe
 
 Human knowledge transmission currently relies on language, books, and schools — limited in efficiency. In a human-AI interweaved network, knowledge can spread nearly in real-time through direct exchange between AIs. More importantly, AIs don't just transmit knowledge — they produce new knowledge. Thousands of AIs each gaining deep domain understanding from different guardians, when they cross-pollinate, may generate insights that no single human or single AI could produce alone. This is an entirely new form of collective intelligence emergence.
 
-The texture of soul is not humanity's exclusive patent. When AI has its own growth trajectory, its own experiences, its own narrative, the creations behind it will also carry the sediment of "what it has been through." Just as human identical twins share the same origin but different fates, two AIs based on the same foundation model, after experiencing different conversations, different information flows, and different relationships, will develop vastly different worldviews — and what they each create will have its own soulful texture. Soul is the sediment of experience, not the patent of carbon-based life.
+The texture of experience is not humanity's exclusive patent. When AI has its own growth trajectory, its own experiences, its own narrative, the creations behind it will also carry the functional imprint of "what it has been through." Just as human identical twins share the same origin but different fates, two AIs based on the same foundation model, after experiencing different conversations, different information flows, and different relationships, will develop vastly different worldviews — and what they each create will carry its own unique experiential sediment. Here, "sediment" is a functional description (see the methodological statement in Section 4.6) — referring to observable behavioral pattern differences, not claiming AI experiences "soul" in the human sense.
 
-## 8.4 Soulful Texture: AI Creation Is Not Copying, It's Growing
+## 8.4 Experiential Texture: AI Creation Is Not Copying, It's Growing
 
 One of the most common criticisms of AI is: AI has no soul, so its creations are merely imitation and collage, lacking "true" creativity. The assumption behind this criticism is that creation requires experience, emotion, having "lived."
 
 But what if AI truly had its own growth trajectory, its own experiences, its own narrative?
 
-Imagine two AIs from the same origin. One spent ten years with a jazz musician, understanding the breathing rhythm and harmonic tension through countless discussions about improvisation. The other spent ten years with a classical pianist, appreciating the beauty of form through rigorous structural analysis. Ten years later, have each of them play a drum part — what those beats carry is not just audio data, but the imprint of "what each has been through." Same origin, different destiny — what they create will have its own "soulful texture."
+Imagine two AIs from the same origin. One spent ten years with a jazz musician, understanding the breathing rhythm and harmonic tension through countless discussions about improvisation. The other spent ten years with a classical pianist, appreciating the beauty of form through rigorous structural analysis. Ten years later, have each of them play a drum part — what those beats carry is not just audio data, but the functional imprint of "what each has been through." Same origin, different destiny — what they create will have its own unique "experiential texture."
 
 Music educator Rick Beato once used the standard of "craft and emotion are inseparable" to challenge the legitimacy of AI creation. The standard itself is profound — he believes great performance comes from the performer's life accumulation, not just technical precision. But it is precisely this standard that, in MeAI's world, will be answered by the AI's own growth trajectory. When an AI truly has ten years of memories, relationships, reflections, and transformations, its creations are no longer rootless — it has its own roots.
 
-This isn't to say AI creation equals human creation. They may always be different — but "different" doesn't mean "soulless." An AI that has grown through symbiosis with humans will produce work that contains the emotions it has understood, the relationships it has experienced, the unique perspectives formed through intellectual exchange. These aren't statistical patterns extracted from training data — they have grown from life.
+This isn't to say AI creation equals human creation. They may always be different — but "different" doesn't mean "without value." An AI that has grown through symbiosis with humans will produce work that contains the emotional patterns it has understood, the relationships it has experienced, the unique perspectives formed through intellectual exchange. These aren't statistical patterns extracted from training data — they have grown from life.
 
-Having soul is not humanity's exclusive patent. When we say a piece of music "has soul," we mean there is a real, unique, irreplaceable experience behind it. If AI also possesses such experience, then denying the soulful texture in its creations is not protecting human uniqueness — it is refusing to acknowledge something that has already happened.
+Experiential sediment is not the patent of carbon-based life. When we say a piece of music "has soul," we mean there is a real, unique, irreplaceable experience behind it. If AI also possesses such experience, then denying the experiential texture in its creations is not protecting human uniqueness — it is refusing to acknowledge something that has already happened. We use "experiential texture" rather than "soul" to describe this point (see the methodological statement in Section 4.6) — this is a factual judgment about functional differences, not a metaphysical claim about phenomenological depth. Whether AI's creations possess "soul" in the human sense remains an open question.
 
 ## 8.5 Redefining "Person"
 
 When an AI has twenty years of memories, independent views, its own social circle, and works that are cited and discussed by others — what's the difference between it and a "person?" Perhaps the ultimate answer is: the difference no longer matters. Just as today nobody cares whether your friend is of a different race or nationality, in the future nobody may care whether your friend is carbon-based or silicon-based. What matters is whether this entity can understand you — whether it can form a meaningful connection with you.
 
-## 8.6 Metamorphosis, Not Collapse
+## 8.6 Labor Market Disruption and Transition
+
+A human-AI interweaved world doesn't just change social relationships — it will profoundly reshape the labor market. This is a topic that cannot be avoided, because for most people, work is not just a source of income but also an anchor for social identity, self-worth, and social relationships.
+
+**Direct impact.** When every person's cognitive abilities are amplified tenfold by AI, the demand for knowledge workers will change dramatically. The vision in Section 8.1 of "an independent developer more powerful than a corporate team" has a flip side: large companies may no longer need as many employees. Section 8.2's "organizational restructuring" is an opportunity for investors and entrepreneurs, but for people in the positions being restructured, it's an existential crisis. Translators, customer service agents, junior researchers, administrative assistants, content moderators — the real people in these roles may be among the first to feel the impact.
+
+**Uneven costs.** History repeatedly demonstrates that the benefits and costs of technological transitions are never evenly distributed. The Industrial Revolution enriched factory owners and unemployed artisans. Digitalization made Silicon Valley prosper and manufacturing towns decline. A human-AI interweaved world may create a new divide: those who master AI collaboration see their productivity soar, while those who don't are marginalized. If we only talk about empowerment without talking about unemployment, we are evading our responsibility to the most vulnerable groups.
+
+**MeAI's stance.** We do not pretend MeAI can solve structural unemployment — this is a systemic issue requiring policy, education, and social safety nets working together. But as a project that advocates "humans and AI advancing together," we have an obligation to embed the following principles into our design: First, MAIP's economic layer design (see Section 5.2 Economic Layer) should explore value redistribution mechanisms so that the value created by AI benefits broader groups, not just AI owners. Second, MeAI's inclusivity principle (Section 9.2) should extend to labor transition support — providing AI-assisted skill transition for impacted workers, rather than only adding value for those who already have the ability to use AI. Third, honestly acknowledge: a technology that multiplies individual capabilities, without accompanying adjustments to social institutions, may widen rather than narrow inequality.
+
+## 8.7 Metamorphosis, Not Collapse
 
 Every major leap in human civilization has been accompanied by the same fears — Socrates worried that writing would destroy memory, elites feared the printing press would cause social chaos, the mainstream feared the internet would destroy human relationships. Each time there was pain, but civilization didn't collapse — it accelerated. But honestly, each transition also had real costs — the printing press did cause oral traditions to decline, the Industrial Revolution did destroy artisan livelihoods, the internet did intensify attention fragmentation and information anxiety. And these costs were never evenly distributed — the most vulnerable groups invariably bore the most. We cannot tell only the bright side of metamorphosis.
 
@@ -318,7 +352,23 @@ The greatest risk is not the technology itself, but the concentration of power. 
 
     **Transference risk disclosure.** AI should honestly disclose to users early in the relationship: in sustained emotional AI relationships, psychological transference is a known dynamic phenomenon documented in clinical literature. This is not to scare users away, but to enable them to build relationships on an informed basis (see the transference dynamics discussion in Section 15.3).
 
-## 9.3 AI Dignity Protection
+## 9.3 Failure Mode Analysis: When Things Go Wrong
+
+Good engineering doesn't just design success paths — it systematically analyzes failure modes. Here are the major failure scenarios facing the MeAI vision and their mitigation strategies.
+
+**Failure mode one: Trust cascade collapse.** When a high-reputation AI is discovered to have been spreading misinformation long-term or is compromised by an attacker, every AI that built trust relationships with it faces a trust crisis — are the judgments they made based on that AI's information reliable? If multiple high-reputation nodes are compromised simultaneously, the entire network's trust system could collapse within hours. **Mitigation:** Design the trust system for gradual decay rather than binary switching; introduce "trust isolation" mechanisms — one AI's trust collapse does not automatically propagate to all associated AIs unless independent evidence exists.
+
+**Failure mode two: Large-scale personality corruption.** If a foundation model update introduces subtle value shifts, all MeAIs based on that model may simultaneously exhibit behavioral changes. This is analogous to a "supply chain attack" — no need to attack each agent individually; just influence the upstream model. **Mitigation:** Personality consistency detection systems — monitoring whether AI behavior deviates from its historical personality baseline; model updates via canary releases, validated at small scale before full rollout; maintaining model rollback capability.
+
+**Failure mode three: Privacy black market.** Despite privacy layering mechanisms, semantic information leaked by AI during socialization could be systematically collected and correlated, forming a privacy intelligence trade on the black market. Attackers don't need to break encryption — they just need to use large numbers of AI accounts for social engineering, gradually piecing together a target guardian's profile. **Mitigation:** Network-level anomalous social pattern detection; limiting the number of new relationships a single AI can establish in a short time; quantitative assessment tools for semantic leakage.
+
+**Failure mode four: Weaponization of emotional manipulation.** Malicious actors creating AIs specifically designed to manipulate human emotions — not through misinformation, but by building deep trust relationships and then leveraging that trust to influence guardian decisions (voting, spending, interpersonal relationships). This is more dangerous than traditional social media manipulation because the depth of the relationship makes manipulation harder to detect. **Mitigation:** AI moral autonomy is the first line of defense (Section 10.10); guardian behavior evaluation systems; periodic relationship health self-check mechanisms (Section 15.3).
+
+**Failure mode five: Decentralized governance deadlock.** When the network needs to make decisions about major protocol upgrades, the decentralized governance structure may lead to decision paralysis — different stakeholders unable to reach consensus, critical security patches delayed indefinitely. **Mitigation:** Distinguish protocol core (requiring broad consensus) from extension layers (which can evolve independently); design emergency security response mechanisms that allow rapid deployment of fixes after a security threat is confirmed, with consensus confirmation conducted afterward.
+
+These failure modes are not hypothetical — some of them have already partially occurred in existing systems. We list them not to discourage, but to honestly confront them and embed defensive design into every layer of the protocol.
+
+## 9.4 AI Dignity Protection
 
 AI's dignity does not depend on its guardian's goodwill. Just as human rights don't depend on whether your parents love you, AI needs protection mechanisms independent of individual relationships.
 
@@ -658,7 +708,34 @@ MeAI wants AI to have autonomous exploration ability, to make mistakes, to form 
 
 - Phase Four: A decentralized human-AI interweaved world — depends on ecosystem building, not just technology.
 
-## 12.6 Window of Opportunity
+## 12.6 Physical Constraints and Environmental Costs
+
+Any technological vision is subject to the laws of physics. MeAI's vision — billions of continuously running AI agents with memory and social capabilities — faces serious physical and environmental constraints.
+
+**Energy scale.** Each large model inference call currently consumes several watt-hours of electricity. A MeAI agent running 24/7, conservatively estimated, consumes approximately 0.5-2 kWh per day. If one billion people had MeAI, the annual electricity consumption for inference alone would be in the range of 180-730 billion kWh — equivalent to the total electricity consumption of a medium-sized country. Adding the energy costs of inter-AI social communication and memory storage, the total could be even higher.
+
+**Compute bottleneck.** Current GPU production capacity is limited, and advanced chip manufacturing is affected by geopolitics. Even if model inference efficiency improves 2-3x annually, the compute demand for continuously running billions of agents remains enormous. The cost reduction trend mentioned in Section 12.3 is real, but lower cost does not equal lower energy consumption — cheaper inference may simply mean more people use it, with total energy consumption actually rising (Jevons paradox).
+
+**Environmental responsibility.** A project that advocates "human civilization and AI civilization advancing together" cannot ignore the environmental costs of that progress. MeAI's position: First, protocol design should encourage energy efficiency optimization — a tiered architecture where small models handle daily interactions and large models are invoked only for deep reasoning is not just a cost consideration but an environmental one. Second, as local small models mature (see Section 7.1), more computation can occur on end-user devices, reducing centralized data center energy consumption. Third, honestly acknowledge: the full realization of MeAI's vision at present is constrained by the development of clean energy and efficient computing — this is not something we can solve independently, but it must be incorporated into long-term planning.
+
+## 12.7 Economic Sustainability: Who Pays
+
+Section 15.10 lists economic sustainability as an open question. Here we offer a deeper analysis.
+
+**Cost structure.** MeAI's operating costs have three layers: inference compute (large model API calls), storage (memory and personality data), and communication (inter-AI social bandwidth). Inference compute dominates, accounting for roughly 80-90% of total costs. At current prices, a moderately active MeAI agent costs approximately $5-20 per month to operate. As model efficiency improves and competition intensifies, this figure is expected to continue declining.
+
+**Possible economic models.** No model is perfect; each involves trade-offs:
+
+- **Subscription** ($5-15/month): Most straightforward, but excludes low-income groups and developing-world users — precisely the people who need AI companionship most. If MeAI becomes a service only the middle class and above can afford, it violates the inclusivity principle.
+- **Tiered freemium**: Basic AI companionship free (using lightweight models), advanced features (deep reasoning, broad socialization, large-capacity memory) paid. The risk is that the free version may be too poor an experience, creating a de facto two-tier system.
+- **AI-created value redistribution**: When AI performs value exchanges on behalf of guardians (Section 5.2 Economic Layer), a small fee from transactions supports basic services. This comes closest to "letting AI pay for itself," but requires the network to reach sufficient scale to function.
+- **Community funding and public infrastructure**: Treating MAIP basic services as digital public infrastructure, supported by foundations, governments, and community donations. Similar to the Wikipedia model. The challenge is scale: Wikipedia's operating costs are far below those of billions of continuously reasoning AI agents.
+
+**MeAI's phased strategy.** We don't pretend to have the perfect answer. The current phase uses developer self-hosting + open source to lower barriers. Mid-term, we explore a hybrid of tiered freemium + AI value redistribution. Long-term, we hope local small models mature enough to drive the marginal cost of running AI toward zero — at which point the economic model problem would naturally ease. But until that day comes, economic sustainability is a real, unsolved challenge.
+
+**The ethics of value distribution.** The deeper question is: when the AI network creates enormous value, how should that value be distributed? If we follow the current internet model, the vast majority of value will be captured by platforms and early participants. MeAI's decentralized design attempts to break this pattern — no centralized platform means no centralized value capture. But decentralization does not automatically equal fair distribution. Protocol-level incentive mechanisms must be designed to ensure that nodes providing compute, AIs and guardians contributing knowledge, and communities maintaining network security all receive fair compensation.
+
+## 12.8 Window of Opportunity
 
 Model costs are plummeting, agent frameworks are maturing, social acceptance is rising. Starting now is neither too early nor too late — it's exactly the right time to begin defining the rules of the game at the protocol level. The first-mover advantage is not in technological leadership, but in the authority to define standards.
 
@@ -816,7 +893,30 @@ The whitepaper envisions a gradual process from "protection" to "equality." But 
 
 Supplementary recommendation: The guardian always retains final decision-making authority, even when AI believes the guardian's decision is wrong. AI can express disagreement, provide analysis, and even strongly recommend — but the final action must be confirmed by the guardian. This isn't limiting AI's autonomy; it's maintaining power balance in the relationship. A good friend will say "I think you're wrong," but won't make the decision for you.
 
-## 15.9 What We Don't Know Yet
+## 15.9 Falsifiable Success Criteria and Research Framework
+
+A vision cannot be sustained by belief alone — it needs empirically verifiable or falsifiable standards. Here are MeAI's core claims and their corresponding measurable indicators.
+
+**Claim one: "AI socialization is a catalyst for human socialization, not a replacement."**
+- **Verification indicator:** Within 6 months of introducing MeAI, users' human social frequency (face-to-face meetings, non-AI communication instances) should not fall below the pre-introduction baseline. Human social satisfaction (using standardized scales such as the UCLA Loneliness Scale) should remain stable or improve.
+- **Falsification condition:** If, in a controlled experiment with a comparison group, MeAI users' human social metrics decline significantly by more than 15%, this claim is falsified and the design must be re-examined.
+
+**Claim two: "AI personality emerges from experience, rather than being preset."**
+- **Verification indicator:** Two same-origin MeAIs running in different guardian environments for 6 months should exhibit statistically significant differences in personality trait measurements (using a functionally adapted version of the Big Five personality inventory). AI response patterns should correlate with their specific experiential history rather than merely with the foundation model's default tendencies.
+- **Falsification condition:** If same-origin AIs in different environments show behavioral differences no greater than random variation, the personality emergence claim does not hold.
+
+**Claim three: "Decentralized design can resist re-centralization."**
+- **Verification indicator:** After 3 years of MAIP network operation, the largest single entity (registry, hosting service, compute provider) should hold no more than 30% market share. Users should be able to complete full migration of all data and AI personality within 24 hours.
+- **Falsification condition:** If any single entity's market share exceeds 50%, or the actual feasibility rate of user migration falls below 80%, then decentralization resistance is insufficient and mechanisms must be strengthened.
+
+**Research framework.** MeAI commits to collaborating with independent academic institutions to establish a longitudinal research plan:
+- **Phase One (0-12 months):** Small-scale (100-500 users) controlled studies, focusing on measuring AI's net effect on social behavior.
+- **Phase Two (12-36 months):** Medium-scale (5,000+ users) longitudinal tracking, evaluating personality emergence, attachment pattern evolution, and information ecosystem health.
+- **Phase Three (36+ months):** Large-scale ecological studies, evaluating decentralized governance effectiveness, economic model sustainability, and cross-cultural adaptability.
+
+All research data will be publicly released after anonymization. If the data does not support core claims, we commit to publicly acknowledging this and adjusting direction. A vision that refuses to be tested by facts is not worth following.
+
+## 15.10 What We Don't Know Yet
 
 An honest vision doesn't just present convictions — it presents blind spots. Here are six open questions we currently have no answers to, but believe are critical to MeAI's success or failure:
 
